@@ -1,20 +1,19 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![flytang26](https://img.shields.io/badge/flytang26-github-blue?logo=github)](https://github.com/flytang26)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I obtained a master's degree in Electronic Information from a 985 university in China (the specific name is omitted for privacy reasons).
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>flytang26@qq.com</code>  
+
 
 #### Education  
 **XX University**, Master of XX (XX – XX)  
 • GPA: XX/XX  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+
 
 **XX University**, Honours Bachelor of XX (XX – XX)  
 • GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+机器人,.
