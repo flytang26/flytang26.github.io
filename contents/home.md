@@ -14,8 +14,8 @@ I earned my Master of Engineering from a university in China and now work at a F
 • GPA: 3.8/4   &nbsp;&nbsp;&nbsp; TOP:5%
 
 #### Keywords of Interests  
-Research：机器人自主行为控制，具身智能，强化学习，人机交互。
+Research：Autonomous Robot Behavior Control、Embodied Intelligence、Reinforcement Learning、 HumanRobot Interaction.
 
-Programming Language：C++，Python。
+Language：C++、Python。
 
-Other：ROS，QT，嵌入式，FFmpeg，Androi
+Other：ROS、QT、FFmpeg、Android、Linux、Embedded Systems。
