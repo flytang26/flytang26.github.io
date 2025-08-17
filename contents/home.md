@@ -16,6 +16,6 @@ I earned my Master of Engineering from a university in China and now work at a F
 #### Keywords of Interests  
 Research：Autonomous Robot Behavior Control、Embodied Intelligence、Reinforcement Learning、 Human-Robot Interaction.
 
-Language：C++、Python。
+Language：C++、Python.
 
-Other：ROS、QT、FFmpeg、Android、Linux、Embedded Systems。
+Other：ROS、QT、FFmpeg、Android、Linux、Embedded Systems.
